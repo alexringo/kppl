@@ -1,4 +1,6 @@
 # kppl
 tugas kppl
-D
-Telah di edit
+
+Mini Project
+
+Fix sesuai dokumen rancangan
